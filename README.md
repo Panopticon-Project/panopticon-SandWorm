@@ -5,3 +5,5 @@ https://www.bleepingcomputer.com/news/security/security-firms-find-thin-lines-co
 https://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/
 
 https://www.wired.com/2016/01/everything-we-know-about-ukraines-power-plant-hack/
+
+https://www.wired.com/story/russian-hackers-attack-ukraine/
