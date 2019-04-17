@@ -11,3 +11,5 @@ https://www.wired.com/story/russian-hackers-attack-ukraine/
 https://www.securityweek.com/exaramel-malware-reinforces-link-between-industroyer-and-notpetya
 
 https://www.securityweek.com/russian-hackers-target-european-governments-ahead-elections-fireeye
+
+https://www.bleepingcomputer.com/news/security/new-greyenergy-malware-targets-ics-tied-with-blackenergy-and-telebots/
