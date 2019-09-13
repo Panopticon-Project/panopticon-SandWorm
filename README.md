@@ -13,3 +13,5 @@ https://www.securityweek.com/exaramel-malware-reinforces-link-between-industroye
 https://www.securityweek.com/russian-hackers-target-european-governments-ahead-elections-fireeye
 
 https://www.bleepingcomputer.com/news/security/new-greyenergy-malware-targets-ics-tied-with-blackenergy-and-telebots/
+
+https://www.wired.com/story/russia-ukraine-cyberattack-power-grid-blackout-destruction/
