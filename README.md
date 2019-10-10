@@ -15,3 +15,5 @@ https://www.securityweek.com/russian-hackers-target-european-governments-ahead-e
 https://www.bleepingcomputer.com/news/security/new-greyenergy-malware-targets-ics-tied-with-blackenergy-and-telebots/
 
 https://www.wired.com/story/russia-ukraine-cyberattack-power-grid-blackout-destruction/
+
+http://www.spywareremove.com/removetelebots.html
