@@ -17,3 +17,5 @@ https://www.bleepingcomputer.com/news/security/new-greyenergy-malware-targets-ic
 https://www.wired.com/story/russia-ukraine-cyberattack-power-grid-blackout-destruction/
 
 http://www.spywareremove.com/removetelebots.html
+
+http://www.spywareremove.com/removegreyenergy.html
