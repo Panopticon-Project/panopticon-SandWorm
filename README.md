@@ -29,3 +29,5 @@ https://www.wired.com/story/sandworm-android-malware/
 https://www.itnews.com/article/3455172/a-new-era-of-cyber-warfare-russias-sandworm-shows-we-are-all-ukraine-on-the-internet.html
 
 https://www.itnews.com/article/3455172/russias-sandworm-hacking-group-heralds-new-era-of-cyber-warfare.html
+
+https://www.theregister.co.uk/2019/11/28/google_12000_warnings_phishing_sandworm/
