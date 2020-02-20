@@ -31,3 +31,5 @@ https://www.itnews.com/article/3455172/a-new-era-of-cyber-warfare-russias-sandwo
 https://www.itnews.com/article/3455172/russias-sandworm-hacking-group-heralds-new-era-of-cyber-warfare.html
 
 https://www.theregister.co.uk/2019/11/28/google_12000_warnings_phishing_sandworm/
+
+https://www.wired.com/story/us-blames-russia-gru-sweeping-cyberattacks-georgia/
