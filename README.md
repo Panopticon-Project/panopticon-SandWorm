@@ -35,3 +35,5 @@ https://www.theregister.co.uk/2019/11/28/google_12000_warnings_phishing_sandworm
 https://www.wired.com/story/us-blames-russia-gru-sweeping-cyberattacks-georgia/
 
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
+
+https://www.zdnet.com/article/booz-allen-analyzed-200-russian-hacking-operations-to-better-understand-their-tactics/
