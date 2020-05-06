@@ -39,3 +39,5 @@ https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-
 https://www.zdnet.com/article/booz-allen-analyzed-200-russian-hacking-operations-to-better-understand-their-tactics/
 
 https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
+
+https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/
