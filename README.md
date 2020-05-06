@@ -37,3 +37,5 @@ https://www.wired.com/story/us-blames-russia-gru-sweeping-cyberattacks-georgia/
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
 
 https://www.zdnet.com/article/booz-allen-analyzed-200-russian-hacking-operations-to-better-understand-their-tactics/
+
+https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
