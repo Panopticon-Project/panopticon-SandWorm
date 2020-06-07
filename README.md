@@ -41,3 +41,5 @@ https://www.zdnet.com/article/booz-allen-analyzed-200-russian-hacking-operations
 https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
 
 https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/
+
+https://www.zdnet.com/article/nsa-warns-of-new-sandworm-attacks-on-email-servers/
