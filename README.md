@@ -47,3 +47,5 @@ https://www.zdnet.com/article/nsa-warns-of-new-sandworm-attacks-on-email-servers
 https://www.securityweek.com/several-exim-vulnerabilities-exploited-russia-linked-attacks
 
 https://www.securityweek.com/nsa-publishes-iocs-associated-russian-targeting-exim-servers
+
+https://www.wired.com/story/nsa-sandworm-exim-mail-server-warning/
