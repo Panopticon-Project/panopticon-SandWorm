@@ -45,3 +45,5 @@ https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/
 https://www.zdnet.com/article/nsa-warns-of-new-sandworm-attacks-on-email-servers/
 
 https://www.securityweek.com/several-exim-vulnerabilities-exploited-russia-linked-attacks
+
+https://www.securityweek.com/nsa-publishes-iocs-associated-russian-targeting-exim-servers
