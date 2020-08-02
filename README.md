@@ -49,3 +49,5 @@ https://www.securityweek.com/several-exim-vulnerabilities-exploited-russia-linke
 https://www.securityweek.com/nsa-publishes-iocs-associated-russian-targeting-exim-servers
 
 https://www.wired.com/story/nsa-sandworm-exim-mail-server-warning/
+
+https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/
