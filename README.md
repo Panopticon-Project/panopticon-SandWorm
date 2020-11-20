@@ -53,3 +53,5 @@ https://www.wired.com/story/nsa-sandworm-exim-mail-server-warning/
 https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/
 
 https://www.securityweek.com/us-charges-russian-intelligence-officers-notpetya-industroyer-attacks
+
+https://www.wired.com/story/us-indicts-sandworm-hackers-russia-cyberwar-unit/
