@@ -55,3 +55,5 @@ https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-th
 https://www.securityweek.com/us-charges-russian-intelligence-officers-notpetya-industroyer-attacks
 
 https://www.wired.com/story/us-indicts-sandworm-hackers-russia-cyberwar-unit/
+
+https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68
