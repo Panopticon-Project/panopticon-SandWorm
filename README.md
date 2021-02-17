@@ -59,3 +59,5 @@ https://www.wired.com/story/us-indicts-sandworm-hackers-russia-cyberwar-unit/
 https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68
 
 https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/
+
+https://www.wired.com/story/sandworm-centreon-russia-hack/
