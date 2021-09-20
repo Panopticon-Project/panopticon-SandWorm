@@ -65,3 +65,5 @@ https://www.wired.com/story/sandworm-centreon-russia-hack/
 https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-gru-targeted-the-us-grid-for-years/
 
 https://cybernews.com/security/apt-in-action-xdspy-and-sandworm/
+
+https://securityaffairs.co/wordpress/122401/hacking/phishing-emea-apac-governments.html
