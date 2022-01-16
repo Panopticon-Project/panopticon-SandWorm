@@ -67,3 +67,13 @@ https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-g
 https://cybernews.com/security/apt-in-action-xdspy-and-sandworm/
 
 https://securityaffairs.co/wordpress/122401/hacking/phishing-emea-apac-governments.html
+
+Bad Rabbit appears to be from same group based on infrastructure
+
+http://www.securityweek.com/files-encrypted-bad-rabbit-recoverable-without-paying-ransom
+
+http://www.securityweek.com/profiling-tool-suggests-bad-rabbit-not-financially-motivated
+
+http://www.securityweek.com/bad-rabbit-attack-infrastructure-set-months-ago
+
+https://www.wired.com/story/badrabbit-ransomware-notpetya-russia-ukraine/
