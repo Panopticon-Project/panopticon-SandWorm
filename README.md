@@ -81,3 +81,5 @@ https://www.wired.com/story/badrabbit-ransomware-notpetya-russia-ukraine/
 https://www.securityweek.com/group-caused-power-outage-stops-focusing-exclusively-ukraine
 
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+
+https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/
