@@ -77,3 +77,7 @@ http://www.securityweek.com/profiling-tool-suggests-bad-rabbit-not-financially-m
 http://www.securityweek.com/bad-rabbit-attack-infrastructure-set-months-ago
 
 https://www.wired.com/story/badrabbit-ransomware-notpetya-russia-ukraine/
+
+https://www.securityweek.com/group-caused-power-outage-stops-focusing-exclusively-ukraine
+
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
