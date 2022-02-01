@@ -83,3 +83,5 @@ https://www.securityweek.com/group-caused-power-outage-stops-focusing-exclusivel
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
 
 https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/
+
+https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light
