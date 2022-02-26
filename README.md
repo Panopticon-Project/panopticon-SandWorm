@@ -85,3 +85,13 @@ https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
 https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/
 
 https://www.securityweek.com/more-russian-attacks-against-ukraine-come-light
+
+https://www.wired.com/story/sandworm-cyclops-blink-hacking-tool/
+
+https://www.scmagazine.com/analysis/apt/us-uk-detail-malware-tied-to-russian-hacking-group-sandworm-that-targets-linux
+
+https://arstechnica.com/information-technology/2022/02/russias-most-cut-throat-hackers-infect-network-devices-with-new-botnet-malware/
+
+https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-054a
