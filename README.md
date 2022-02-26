@@ -95,3 +95,5 @@ https://arstechnica.com/information-technology/2022/02/russias-most-cut-throat-h
 https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-054a
+
+https://therecord.media/us-and-uk-expose-new-russian-malware-targeting-network-devices/
