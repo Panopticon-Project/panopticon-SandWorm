@@ -97,3 +97,5 @@ https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 https://www.cisa.gov/uscert/ncas/alerts/aa22-054a
 
 https://therecord.media/us-and-uk-expose-new-russian-malware-targeting-network-devices/
+
+https://www.trendmicro.com/en_us/research/22/c/cyclops-blink-sets-sights-on-asus-routers--.html
