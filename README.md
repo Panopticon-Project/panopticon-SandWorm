@@ -99,3 +99,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-054a
 https://therecord.media/us-and-uk-expose-new-russian-malware-targeting-network-devices/
 
 https://www.trendmicro.com/en_us/research/22/c/cyclops-blink-sets-sights-on-asus-routers--.html
+
+https://www.welivesecurity.com/2022/03/21/sandworm-tale-disruption-told-anew/
