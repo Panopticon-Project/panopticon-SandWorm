@@ -105,3 +105,5 @@ https://www.welivesecurity.com/2022/03/21/sandworm-tale-disruption-told-anew/
 https://therecord.media/us-disrupts-prolific-botnet-controlled-by-russian-military-doj-says
 
 https://www.wired.com/story/watchguard-didnt-disclose-vulnerability-cyclops-blink/
+
+https://therecord.media/researchers-find-new-malware-variant-after-stopping-attack-on-ukrainian-energy-provider/
