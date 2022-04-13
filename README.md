@@ -107,3 +107,5 @@ https://therecord.media/us-disrupts-prolific-botnet-controlled-by-russian-milita
 https://www.wired.com/story/watchguard-didnt-disclose-vulnerability-cyclops-blink/
 
 https://therecord.media/researchers-find-new-malware-variant-after-stopping-attack-on-ukrainian-energy-provider/
+
+https://www.wired.com/story/sandworm-russia-ukraine-blackout-gru/
