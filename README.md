@@ -111,3 +111,5 @@ https://therecord.media/researchers-find-new-malware-variant-after-stopping-atta
 https://www.wired.com/story/sandworm-russia-ukraine-blackout-gru/
 
 https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/
+
+https://www.securityweek.com/ukraine-says-potent-russian-hack-against-power-grid-thwarted
