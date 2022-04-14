@@ -109,3 +109,5 @@ https://www.wired.com/story/watchguard-didnt-disclose-vulnerability-cyclops-blin
 https://therecord.media/researchers-find-new-malware-variant-after-stopping-attack-on-ukrainian-energy-provider/
 
 https://www.wired.com/story/sandworm-russia-ukraine-blackout-gru/
+
+https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/
