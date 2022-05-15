@@ -115,3 +115,5 @@ https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/
 https://www.securityweek.com/ukraine-says-potent-russian-hack-against-power-grid-thwarted
 
 https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-russian-military-intelligence-officers-conducting-malicious-activity-against-u-s-critical-infrastructure/
+
+https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine/
