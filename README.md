@@ -117,3 +117,5 @@ https://www.securityweek.com/ukraine-says-potent-russian-hack-against-power-grid
 https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-russian-military-intelligence-officers-conducting-malicious-activity-against-u-s-critical-infrastructure/
 
 https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine/
+
+https://www.welivesecurity.com/2022/05/20/sandworm-ukraine-new-version-arguepatch-malware-loader/
