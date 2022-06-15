@@ -119,3 +119,5 @@ https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-russia
 https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine/
 
 https://www.welivesecurity.com/2022/05/20/sandworm-ukraine-new-version-arguepatch-malware-loader/
+
+https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.html
