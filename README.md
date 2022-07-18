@@ -121,3 +121,5 @@ https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine/
 https://www.welivesecurity.com/2022/05/20/sandworm-ukraine-new-version-arguepatch-malware-loader/
 
 https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.html
+
+https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine
