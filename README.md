@@ -125,3 +125,5 @@ https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.htm
 https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine
 
 https://infosec.exchange/@ESETresearch/109405531004643151
+
+https://www.welivesecurity.com/2022/11/28/ransomboggs-new-ransomware-ukraine/
