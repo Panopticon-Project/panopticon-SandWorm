@@ -129,3 +129,12 @@ https://infosec.exchange/@ESETresearch/109405531004643151
 https://www.welivesecurity.com/2022/11/28/ransomboggs-new-ransomware-ukraine/
 
 https://www.securityweek.com/video-deep-dive-pipedreamincontroller-ics-attack-framework
+
+https://cip.gov.ua/ua/news/ukrinform-mogli-atakuvati-khakeri-z-ugrupuvannya-sandworm-pov-yazanogo-z-rosiiskim-gru-poperedni-dani-doslidzhennya-cert-ua
+
+https://cert.gov.ua/article/3639362
+
+https://twitter.com/gabby_roncone/status/1615760621320167424
+
+https://www.mandiant.com/resources/blog/gru-rise-telegram-minions
+
