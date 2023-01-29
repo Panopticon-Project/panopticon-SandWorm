@@ -138,3 +138,4 @@ https://twitter.com/gabby_roncone/status/1615760621320167424
 
 https://www.mandiant.com/resources/blog/gru-rise-telegram-minions
 
+https://twitter.com/esetresearch/status/1618960022150729728
